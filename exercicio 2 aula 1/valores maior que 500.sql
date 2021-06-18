@@ -1,0 +1,1 @@
+select * from tb_vendas where valor >500

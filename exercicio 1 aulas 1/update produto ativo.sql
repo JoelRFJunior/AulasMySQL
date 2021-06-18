@@ -1,0 +1,1 @@
+update tb_vendas set ativo = true where id = 7

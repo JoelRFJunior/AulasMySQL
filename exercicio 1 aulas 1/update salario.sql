@@ -1,0 +1,1 @@
+update tb_funcionaros set salario = 2500.00 where id = 4 ;
