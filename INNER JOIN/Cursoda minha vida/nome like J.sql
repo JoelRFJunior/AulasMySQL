@@ -1,0 +1,1 @@
+SELECT * FROM tb_curso where nome  like 'J%';

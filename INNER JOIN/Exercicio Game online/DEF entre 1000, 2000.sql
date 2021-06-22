@@ -1,0 +1,1 @@
+SELECT* FROM tb_personagem where DEF >= 1000 and DEF <=2000;

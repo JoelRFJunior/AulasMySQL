@@ -1,0 +1,1 @@
+CREATE  DATABASE db_farmácia_do_bem;

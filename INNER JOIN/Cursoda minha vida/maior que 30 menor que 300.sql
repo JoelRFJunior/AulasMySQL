@@ -1,0 +1,1 @@
+SELECT * FROM tb_curso where preco > 50 and preco < 300;

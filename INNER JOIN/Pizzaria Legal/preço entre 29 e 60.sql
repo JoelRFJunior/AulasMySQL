@@ -1,0 +1,1 @@
+SELECT * FROM tb_pizza WHERE preco >= 29.00 and preco<= 60;

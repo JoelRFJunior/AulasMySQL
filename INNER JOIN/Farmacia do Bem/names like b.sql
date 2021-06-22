@@ -1,0 +1,1 @@
+SELECT * FROM tb_produto where nome  like 'd%';
